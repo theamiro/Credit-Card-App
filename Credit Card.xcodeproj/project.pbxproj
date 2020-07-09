@@ -13,6 +13,7 @@
 		0209959124AC5FCE00816594 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0209959024AC5FCE00816594 /* Assets.xcassets */; };
 		0209959424AC5FCE00816594 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0209959324AC5FCE00816594 /* Preview Assets.xcassets */; };
 		0209959724AC5FCE00816594 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0209959524AC5FCE00816594 /* LaunchScreen.storyboard */; };
+		02AA452A24B75407001C6B12 /* screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = 02AA452924B75407001C6B12 /* screenshot.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,8 @@
 		0209959324AC5FCE00816594 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		0209959624AC5FCE00816594 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0209959824AC5FCE00816594 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		02AA452824B753D1001C6B12 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		02AA452924B75407001C6B12 /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,8 +43,10 @@
 		0209957E24AC5FCC00816594 = {
 			isa = PBXGroup;
 			children = (
+				02AA452824B753D1001C6B12 /* README.md */,
 				0209958924AC5FCC00816594 /* Credit Card */,
 				0209958824AC5FCC00816594 /* Products */,
+				02AA452924B75407001C6B12 /* screenshot.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -136,6 +141,7 @@
 				0209959724AC5FCE00816594 /* LaunchScreen.storyboard in Resources */,
 				0209959424AC5FCE00816594 /* Preview Assets.xcassets in Resources */,
 				0209959124AC5FCE00816594 /* Assets.xcassets in Resources */,
+				02AA452A24B75407001C6B12 /* screenshot.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
